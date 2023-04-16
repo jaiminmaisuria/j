@@ -1,7 +1,7 @@
-#include<stdio.h>
+#include<iostream.h>
 #include<conio.h>
 int main()
 {
-	printf("jaimin");
+	cout<<"jaimin";
 	return 0;
 }
